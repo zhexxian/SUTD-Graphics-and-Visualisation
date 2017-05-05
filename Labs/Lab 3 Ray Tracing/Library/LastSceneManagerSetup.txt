@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ray tracing scene.unity
+  isLoaded: 1
+  isActive: 1
